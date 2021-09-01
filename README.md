@@ -1,2 +1,2 @@
-# Data-structure
+# Data Structures
 Data Structures and algorithms
